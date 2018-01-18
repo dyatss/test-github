@@ -3,7 +3,6 @@
     <div class="container">
         <div id="logo">
             <a href="index.jsp"><img src="images/logo.png" alt=""/></a>
-            <a href="index.jsp"><img src="images/logo.png" alt=""/></a>
         </div>
         <div id="nav">
             <%
